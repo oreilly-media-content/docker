@@ -1,7 +1,8 @@
 {
   "files": [
-    "docs/sources_markdown/commandline/cli.md",
-    "docs/sources_markdown/contributing/contributing.md"
+    "docs/sources_markdown/contributing/contributing.md",
+    "docs/sources_markdown/installation/binaries.md",
+    "docs/sources_markdown/installation/archlinux.md"
   ],
   "formats": {
     "pdf": {},
