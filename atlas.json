@@ -1,6 +1,5 @@
 {
   "files": [
-    "docs/sources_markdown/index.md",
     "docs/sources_markdown/commandline/cli.md",
     "docs/sources_markdown/contributing/contributing.md"
   ],
