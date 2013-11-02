@@ -1,15 +1,24 @@
 {
   "files": [
-    "docs/sources_markdown/contributing/contributing.md",
-    "docs/sources_markdown/installation/binaries.md",
-    "docs/sources_markdown/installation/archlinux.md"
+    "docs/sources_markdown/examples/index.md",
+    "docs/sources_markdown/examples/hello_world.md",
+    "docs/sources_markdown/examples/couchdb_data_volumes.md",
+    "docs/sources_markdown/examples/linking_into_redis.md",
+    "docs/sources_markdown/examples/mongodb.md",
+    "docs/sources_markdown/examples/nodejs_web_app.md",
+    "docs/sources_markdown/examples/postgresql_service.md",
+    "docs/sources_markdown/examples/python_web_app.md",
+    "docs/sources_markdown/examples/running_redis_service.md",
+    "docs/sources_markdown/examples/running_riak_service.md"
   ],
   "formats": {
-    "pdf": {},
+    "pdf": {
+      "version": "print"
+    },
     "epub": {},
     "mobi": {},
     "html": {}
   },
   "theme": "oreillymedia/atlas_tech1c_theme",
-  "title": "docker"
+  "title": "Docker"
 }
